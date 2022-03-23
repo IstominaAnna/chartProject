@@ -1,0 +1,12 @@
+#chartdiv{
+    /*width: 700px;*/
+    /*height: 700px;*/
+    width: 100%;
+    height: 100%;
+
+}
+.chart{
+    width: calc(100vw - 850px);
+    height: calc(100vh - 180px);
+
+}

@@ -1,0 +1,44 @@
+/*.Navbar div{*/
+/*   padding: 15px 25px;*/
+/*}*/
+#button-add{
+   margin-bottom: 1rem;
+   width: 215px;
+}
+.borderContainer{
+   border-radius: 8px;
+   border: 1px solid #ced4da;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-bottom: 50px;
+   padding: 15px 25px;
+   background-color: white;
+}
+.buttonsContainer div{
+   padding-bottom: 15px;
+}
+.tableContainer{
+   border-radius: 8px;
+   border: 1px solid #ced4da;
+}
+.buttons-table{
+    display: flex;
+   flex-flow: column wrap;
+   padding: 0 !important;
+}
+
+
+.btn-flat {
+   background-color: #66c;
+   color: white;
+}
+.btn-pink{
+   background-color: #6794dc;
+   color: white;
+}
+
+.btn-xxl {
+   padding: 0.5rem 1rem;
+   font-size: 1rem;
+   width: 250px;
+}
